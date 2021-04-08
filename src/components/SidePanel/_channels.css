@@ -1,0 +1,21 @@
+.active {
+  background-color: rgb(235, 233, 233);
+}
+
+.inactive {
+  padding: 10px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.columnWiseChannel {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex_between {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
