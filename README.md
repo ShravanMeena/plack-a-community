@@ -1,4 +1,8 @@
-# Screenshots
+### Watch youtube short video for save time
+# [Click here](https://bit.ly/2Ra0I2s)
+
+## Screenshots
+
 
 !["Landing"](https://i.ibb.co/7yQhhFv/Screenshot-2021-04-08-at-3-51-47-AM.png)
 !["Signup"](https://i.ibb.co/8BjDJJz/Screenshot-2021-04-08-at-7-49-49-PM.png)
